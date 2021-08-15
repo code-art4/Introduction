@@ -59,9 +59,12 @@ ol li {
     padding: 0 2rem;
 }
 
-.content h4,
-.content section:not(:last-of-type) {
+.content h4 {
     margin-bottom: 1rem;
+}
+
+.content section:not(:last-of-type) {
+    margin-bottom: 3rem;
 }
 
 iframe {
@@ -70,6 +73,6 @@ iframe {
 }
 
 footer {
-    margin-top: 4rem;
+    margin-top: 10rem;
     text-align: center;
 }
